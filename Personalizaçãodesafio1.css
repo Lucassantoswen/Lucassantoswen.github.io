@@ -1,0 +1,19 @@
+body{
+background-color: cadetblue;
+}
+h1{
+    border:solid green;
+    background-color: greenyellow;
+    text-shadow: rgb(21, 53, 88) 2px 2px 2px;
+    padding: 50px;
+}
+h3{
+    border:solid pink;
+    background-color: rgb(224, 191, 214);
+    text-shadow: palevioletred 2px 2px 2px;
+    padding: 30px;
+}
+.teste{
+    background-color: red;
+    padding: 25px;
+}
